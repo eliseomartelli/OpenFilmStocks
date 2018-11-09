@@ -1,0 +1,16 @@
+s = {
+	id = "B01589E5-C6B7-4A12-9315-ED10C2D0F116",
+	internalName = "2.1 Min",
+	title = "2.1 Min",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			GrainAmount = 20,
+			GrainFrequency = 50,
+			GrainSize = 23,
+		},
+		uuid = "5A42D8C5-A309-415F-A079-19EEB574D4F3",
+	},
+	version = 0,
+}

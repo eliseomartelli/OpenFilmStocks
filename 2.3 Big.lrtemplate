@@ -1,0 +1,16 @@
+s = {
+	id = "353DAE70-6342-478A-8B13-48F603955DB8",
+	internalName = "2.3 Big",
+	title = "2.3 Big",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			GrainAmount = 60,
+			GrainFrequency = 50,
+			GrainSize = 50,
+		},
+		uuid = "2B834A50-38D4-4501-966F-AA460D78D04C",
+	},
+	version = 0,
+}
