@@ -4,7 +4,7 @@
     xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
    crs:PresetType="Normal"
    crs:Cluster=""
-   crs:UUID="FACB14DA289D44D698E7EF2871DD9B61"
+   crs:UUID="5E340648E6FD4808BB7035285E2151CE"
    crs:SupportsAmount="False"
    crs:SupportsColor="True"
    crs:SupportsMonochrome="True"
@@ -51,11 +51,6 @@
    crs:LuminanceAdjustmentBlue="-23"
    crs:LuminanceAdjustmentPurple="+9"
    crs:LuminanceAdjustmentMagenta="0"
-   crs:SplitToningShadowHue="0"
-   crs:SplitToningShadowSaturation="0"
-   crs:SplitToningHighlightHue="0"
-   crs:SplitToningHighlightSaturation="0"
-   crs:SplitToningBalance="0"
    crs:ParametricShadows="0"
    crs:ParametricDarks="0"
    crs:ParametricLights="0"
@@ -69,9 +64,7 @@
    crs:Contrast2012="+82"
    crs:Clarity2012="0"
    crs:Dehaze="0"
-   crs:ConvertToGrayscale="False"
    crs:ToneCurveName2012="Custom"
-   crs:CameraProfile="Adobe Standard"
    crs:HasSettings="True">
    <crs:Name>
     <rdf:Alt>
@@ -111,28 +104,28 @@
    <crs:ToneCurvePV2012Red>
     <rdf:Seq>
      <rdf:li>0, 0</rdf:li>
-     <rdf:li>68, 56</rdf:li>
-     <rdf:li>184, 186</rdf:li>
+     <rdf:li>68, 46</rdf:li>
+     <rdf:li>182, 191</rdf:li>
      <rdf:li>255, 251</rdf:li>
     </rdf:Seq>
    </crs:ToneCurvePV2012Red>
    <crs:ToneCurvePV2012Green>
     <rdf:Seq>
      <rdf:li>0, 0</rdf:li>
-     <rdf:li>60, 60</rdf:li>
-     <rdf:li>190, 191</rdf:li>
+     <rdf:li>59, 48</rdf:li>
+     <rdf:li>147, 154</rdf:li>
+     <rdf:li>190, 202</rdf:li>
      <rdf:li>255, 255</rdf:li>
     </rdf:Seq>
    </crs:ToneCurvePV2012Green>
    <crs:ToneCurvePV2012Blue>
     <rdf:Seq>
      <rdf:li>0, 0</rdf:li>
-     <rdf:li>67, 61</rdf:li>
+     <rdf:li>66, 51</rdf:li>
+     <rdf:li>129, 124</rdf:li>
      <rdf:li>255, 255</rdf:li>
     </rdf:Seq>
    </crs:ToneCurvePV2012Blue>
-   <crs:Look
-    crs:Name=""/>
   </rdf:Description>
  </rdf:RDF>
 </x:xmpmeta>

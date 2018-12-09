@@ -4,7 +4,7 @@
     xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
    crs:PresetType="Normal"
    crs:Cluster=""
-   crs:UUID="2086DA3DDE494AC7B4EF03688F50538C"
+   crs:UUID="996A093EE0194E0698A3CE1D266019B6"
    crs:SupportsAmount="False"
    crs:SupportsColor="True"
    crs:SupportsMonochrome="True"
@@ -15,46 +15,51 @@
    crs:CameraModelRestriction=""
    crs:Copyright=""
    crs:ContactInfo=""
-   crs:Version="10.5"
-   crs:ProcessVersion="10.0"
-   crs:Saturation="-100"
-   crs:Sharpness="25"
-   crs:ShadowTint="0"
-   crs:RedHue="0"
-   crs:RedSaturation="0"
-   crs:GreenHue="0"
-   crs:GreenSaturation="0"
-   crs:BlueHue="0"
-   crs:BlueSaturation="0"
-   crs:Vibrance="0"
-   crs:HueAdjustmentRed="0"
-   crs:HueAdjustmentOrange="0"
-   crs:HueAdjustmentYellow="0"
-   crs:HueAdjustmentGreen="0"
+   crs:Version="11.0"
+   crs:ProcessVersion="11.0"
+   crs:Saturation="-10"
+   crs:Sharpness="40"
+   crs:ShadowTint="+5"
+   crs:RedHue="+25"
+   crs:RedSaturation="-25"
+   crs:GreenHue="+45"
+   crs:GreenSaturation="-10"
+   crs:BlueHue="-4"
+   crs:BlueSaturation="+40"
+   crs:Vibrance="-5"
+   crs:HueAdjustmentRed="+4"
+   crs:HueAdjustmentOrange="-5"
+   crs:HueAdjustmentYellow="-8"
+   crs:HueAdjustmentGreen="+8"
    crs:HueAdjustmentAqua="0"
-   crs:HueAdjustmentBlue="0"
-   crs:HueAdjustmentPurple="0"
-   crs:HueAdjustmentMagenta="0"
-   crs:SaturationAdjustmentRed="0"
-   crs:SaturationAdjustmentOrange="0"
-   crs:SaturationAdjustmentYellow="0"
-   crs:SaturationAdjustmentGreen="0"
-   crs:SaturationAdjustmentAqua="0"
-   crs:SaturationAdjustmentBlue="0"
-   crs:SaturationAdjustmentPurple="0"
-   crs:SaturationAdjustmentMagenta="0"
-   crs:LuminanceAdjustmentRed="-5"
-   crs:LuminanceAdjustmentOrange="0"
-   crs:LuminanceAdjustmentYellow="-6"
-   crs:LuminanceAdjustmentGreen="-20"
-   crs:LuminanceAdjustmentAqua="+12"
-   crs:LuminanceAdjustmentBlue="0"
-   crs:LuminanceAdjustmentPurple="+35"
-   crs:LuminanceAdjustmentMagenta="+10"
-   crs:ParametricShadows="-1"
-   crs:ParametricDarks="+15"
-   crs:ParametricLights="+27"
-   crs:ParametricHighlights="+14"
+   crs:HueAdjustmentBlue="-20"
+   crs:HueAdjustmentPurple="+25"
+   crs:HueAdjustmentMagenta="-17"
+   crs:SaturationAdjustmentRed="-29"
+   crs:SaturationAdjustmentOrange="-26"
+   crs:SaturationAdjustmentYellow="-56"
+   crs:SaturationAdjustmentGreen="-26"
+   crs:SaturationAdjustmentAqua="-28"
+   crs:SaturationAdjustmentBlue="-25"
+   crs:SaturationAdjustmentPurple="-60"
+   crs:SaturationAdjustmentMagenta="-52"
+   crs:LuminanceAdjustmentRed="+20"
+   crs:LuminanceAdjustmentOrange="+21"
+   crs:LuminanceAdjustmentYellow="+5"
+   crs:LuminanceAdjustmentGreen="+1"
+   crs:LuminanceAdjustmentAqua="-5"
+   crs:LuminanceAdjustmentBlue="+5"
+   crs:LuminanceAdjustmentPurple="+3"
+   crs:LuminanceAdjustmentMagenta="+15"
+   crs:SplitToningShadowHue="0"
+   crs:SplitToningShadowSaturation="0"
+   crs:SplitToningHighlightHue="0"
+   crs:SplitToningHighlightSaturation="0"
+   crs:SplitToningBalance="0"
+   crs:ParametricShadows="0"
+   crs:ParametricDarks="0"
+   crs:ParametricLights="0"
+   crs:ParametricHighlights="0"
    crs:ParametricShadowSplit="25"
    crs:ParametricMidtoneSplit="50"
    crs:ParametricHighlightSplit="75"
@@ -68,7 +73,7 @@
    crs:HasSettings="True">
    <crs:Name>
     <rdf:Alt>
-     <rdf:li xml:lang="x-default">1-- Kodak TRI-X 400</rdf:li>
+     <rdf:li xml:lang="x-default">1- Fujifilm Natura 1600 (BETA)</rdf:li>
     </rdf:Alt>
    </crs:Name>
    <crs:ShortName>
@@ -93,12 +98,11 @@
    </crs:Description>
    <crs:ToneCurvePV2012>
     <rdf:Seq>
-     <rdf:li>0, 0</rdf:li>
-     <rdf:li>45, 34</rdf:li>
-     <rdf:li>75, 90</rdf:li>
-     <rdf:li>126, 142</rdf:li>
-     <rdf:li>214, 216</rdf:li>
-     <rdf:li>255, 255</rdf:li>
+     <rdf:li>0, 2</rdf:li>
+     <rdf:li>58, 43</rdf:li>
+     <rdf:li>132, 122</rdf:li>
+     <rdf:li>178, 185</rdf:li>
+     <rdf:li>255, 250</rdf:li>
     </rdf:Seq>
    </crs:ToneCurvePV2012>
    <crs:ToneCurvePV2012Red>
