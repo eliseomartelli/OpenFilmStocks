@@ -48,7 +48,6 @@
    crs:Dehaze="0"
    crs:ConvertToGrayscale="True"
    crs:ToneCurveName2012="Custom"
-   crs:CameraProfile="Adobe Standard"
    crs:HasSettings="True">
    <crs:Name>
     <rdf:Alt>
@@ -103,8 +102,7 @@
      <rdf:li>255, 255</rdf:li>
     </rdf:Seq>
    </crs:ToneCurvePV2012Blue>
-   <crs:Look
-    crs:Name=""/>
+
   </rdf:Description>
  </rdf:RDF>
 </x:xmpmeta>

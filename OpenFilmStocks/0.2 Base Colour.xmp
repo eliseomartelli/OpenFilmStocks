@@ -4,7 +4,7 @@
     xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
    crs:PresetType="Normal"
    crs:Cluster=""
-   crs:UUID="6A75CB7E9A264D23A6EB416C367A54FE"
+   crs:UUID="6215B1AB572344F993FCC1ADC3CD6416"
    crs:SupportsAmount="False"
    crs:SupportsColor="True"
    crs:SupportsMonochrome="True"
@@ -15,11 +15,9 @@
    crs:CameraModelRestriction=""
    crs:Copyright=""
    crs:ContactInfo=""
-   crs:Version="11.0"
+   crs:Version="11.2.1"
    crs:ProcessVersion="11.0"
    crs:Blacks2012="+95"
-   crs:ConvertToGrayscale="False"
-   crs:CameraProfile="Adobe Standard"
    crs:HasSettings="True">
    <crs:Name>
     <rdf:Alt>
@@ -46,8 +44,22 @@
      <rdf:li xml:lang="x-default"/>
     </rdf:Alt>
    </crs:Description>
-   <crs:Look
-    crs:Name=""/>
+   <crs:Look>
+    <rdf:Description
+     crs:Name="Adobe Color"
+     crs:Amount="1.000000"
+     crs:UUID="B952C231111CD8E0ECCF14B86BAA7077"
+     crs:SupportsAmount="false"
+     crs:SupportsMonochrome="false"
+     crs:SupportsOutputReferred="false"
+     crs:Stubbed="true">
+    <crs:Group>
+     <rdf:Alt>
+      <rdf:li xml:lang="x-default">Profiles</rdf:li>
+     </rdf:Alt>
+    </crs:Group>
+    </rdf:Description>
+   </crs:Look>
   </rdf:Description>
  </rdf:RDF>
 </x:xmpmeta>

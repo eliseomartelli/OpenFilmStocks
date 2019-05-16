@@ -97,8 +97,7 @@
      <rdf:li>255, 255</rdf:li>
     </rdf:Seq>
    </crs:ToneCurvePV2012Blue>
-   <crs:Look
-    crs:Name=""/>
+
   </rdf:Description>
  </rdf:RDF>
 </x:xmpmeta>
