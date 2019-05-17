@@ -4,7 +4,7 @@
     xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
    crs:PresetType="Normal"
    crs:Cluster=""
-   crs:UUID="8F0F4F1F5FB54B2F97250D01F221C84E"
+   crs:UUID="10C929B15FC540F6891D0EB43BB865F0"
    crs:SupportsAmount="False"
    crs:SupportsColor="True"
    crs:SupportsMonochrome="True"
@@ -15,10 +15,11 @@
    crs:CameraModelRestriction=""
    crs:Copyright=""
    crs:ContactInfo=""
-   crs:Version="11.0"
-   crs:Highlights2012="-25"
-   crs:Shadows2012="-15"
-   crs:Whites2012="-31"
+   crs:Version="11.2.1"
+   crs:ProcessVersion="11.0"
+   crs:Highlights2012="-20"
+   crs:Shadows2012="+15"
+   crs:Whites2012="-15"
    crs:HasSettings="True">
    <crs:Name>
     <rdf:Alt>
