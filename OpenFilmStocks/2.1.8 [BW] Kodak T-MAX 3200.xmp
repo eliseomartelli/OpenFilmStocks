@@ -4,7 +4,7 @@
     xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
    crs:PresetType="Normal"
    crs:Cluster=""
-   crs:UUID="F5B2B19517F2400BBDF95686B25C523D"
+   crs:UUID="AE58DECDF23049C1BCC5239CAA37C19A"
    crs:SupportsAmount="False"
    crs:SupportsColor="True"
    crs:SupportsMonochrome="True"
@@ -17,6 +17,7 @@
    crs:ContactInfo=""
    crs:Version="11.2.1"
    crs:ProcessVersion="11.0"
+   crs:Sharpness="40"
    crs:ShadowTint="0"
    crs:RedHue="0"
    crs:RedSaturation="0"
@@ -39,6 +40,10 @@
    crs:ParametricShadowSplit="25"
    crs:ParametricMidtoneSplit="50"
    crs:ParametricHighlightSplit="75"
+   crs:SharpenRadius="+1.0"
+   crs:SharpenDetail="25"
+   crs:SharpenEdgeMasking="0"
+   crs:Contrast2012="+60"
    crs:Clarity2012="-5"
    crs:Dehaze="-10"
    crs:ToneCurveName2012="Custom"
@@ -103,7 +108,6 @@
      crs:SupportsAmount="false"
      crs:SupportsMonochrome="false"
      crs:SupportsOutputReferred="false"
-     crs:Copyright="© 2018 Adobe Systems, Inc."
      crs:Stubbed="true">
     <crs:Group>
      <rdf:Alt>
