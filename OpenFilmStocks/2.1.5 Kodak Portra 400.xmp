@@ -66,7 +66,7 @@
    crs:Dehaze="0"
    crs:ConvertToGrayscale="False"
    crs:ToneCurveName2012="Custom"
-   crs:CameraProfile="Adobe Color"
+   crs:CameraProfile=""
    crs:HasSettings="True">
    <crs:Name>
     <rdf:Alt>

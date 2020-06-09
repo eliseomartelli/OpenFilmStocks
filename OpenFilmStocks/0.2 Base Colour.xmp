@@ -46,7 +46,7 @@
    </crs:Description>
    <crs:Look>
     <rdf:Description
-     crs:Name="Adobe Color"
+     crs:Name=""
      crs:Amount="1.000000"
      crs:UUID="B952C231111CD8E0ECCF14B86BAA7077"
      crs:SupportsAmount="false"
