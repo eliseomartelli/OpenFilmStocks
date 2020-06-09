@@ -4,7 +4,7 @@
     xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
    crs:PresetType="Normal"
    crs:Cluster=""
-   crs:UUID="DFC17E8D7D854E88B3D5E019CD443367"
+   crs:UUID="7692087C2F784EF893E7835F3DA3A0DD"
    crs:SupportsAmount="False"
    crs:SupportsColor="True"
    crs:SupportsMonochrome="True"
@@ -15,9 +15,8 @@
    crs:CameraModelRestriction=""
    crs:Copyright=""
    crs:ContactInfo=""
-   crs:Version="11.0"
-   crs:ProcessVersion="10.0"
-   crs:Sharpness="40"
+   crs:Version="12.2.1"
+   crs:ProcessVersion="11.0"
    crs:ShadowTint="0"
    crs:RedHue="0"
    crs:RedSaturation="0"
@@ -40,12 +39,7 @@
    crs:ParametricShadowSplit="25"
    crs:ParametricMidtoneSplit="50"
    crs:ParametricHighlightSplit="75"
-   crs:SharpenRadius="+1.0"
-   crs:SharpenDetail="25"
-   crs:SharpenEdgeMasking="0"
    crs:Contrast2012="+90"
-   crs:Clarity2012="0"
-   crs:ConvertToGrayscale="True"
    crs:ToneCurveName2012="Linear"
    crs:HasSettings="True">
    <crs:Name>
@@ -97,7 +91,22 @@
      <rdf:li>255, 255</rdf:li>
     </rdf:Seq>
    </crs:ToneCurvePV2012Blue>
-
+   <crs:Look>
+    <rdf:Description
+     crs:Name="Adobe Monochrome"
+     crs:Amount="1.000000"
+     crs:UUID="0CFE8F8AB5F63B2A73CE0B0077D20817"
+     crs:SupportsAmount="false"
+     crs:SupportsMonochrome="false"
+     crs:SupportsOutputReferred="false"
+     crs:Stubbed="true">
+    <crs:Group>
+     <rdf:Alt>
+      <rdf:li xml:lang="x-default">Profiles</rdf:li>
+     </rdf:Alt>
+    </crs:Group>
+    </rdf:Description>
+   </crs:Look>
   </rdf:Description>
  </rdf:RDF>
 </x:xmpmeta>
