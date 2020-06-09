@@ -4,7 +4,7 @@
     xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
    crs:PresetType="Normal"
    crs:Cluster=""
-   crs:UUID="2672C72BCCF24C3890871F184897A1F9"
+   crs:UUID="EBB9A41F64364A0C8729CF66E7A44F16"
    crs:SupportsAmount="False"
    crs:SupportsColor="True"
    crs:SupportsMonochrome="True"
@@ -17,7 +17,7 @@
    crs:ContactInfo=""
    crs:Version="12.2.1"
    crs:ProcessVersion="11.0"
-   crs:Saturation="-24"
+   crs:Saturation="-4"
    crs:ShadowTint="-10"
    crs:RedHue="+15"
    crs:RedSaturation="-5"
@@ -25,7 +25,7 @@
    crs:GreenSaturation="-15"
    crs:BlueHue="+10"
    crs:BlueSaturation="-10"
-   crs:Vibrance="-12"
+   crs:Vibrance="0"
    crs:HueAdjustmentRed="-20"
    crs:HueAdjustmentOrange="-10"
    crs:HueAdjustmentYellow="+5"
@@ -90,7 +90,7 @@
      <rdf:li>0, 5</rdf:li>
      <rdf:li>34, 23</rdf:li>
      <rdf:li>62, 55</rdf:li>
-     <rdf:li>129, 116</rdf:li>
+     <rdf:li>133, 122</rdf:li>
      <rdf:li>209, 203</rdf:li>
      <rdf:li>255, 247</rdf:li>
     </rdf:Seq>
