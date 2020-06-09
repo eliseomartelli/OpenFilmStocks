@@ -4,7 +4,7 @@
     xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
    crs:PresetType="Normal"
    crs:Cluster=""
-   crs:UUID="83A12830BF2D45C7BBFFAD06D08CB108"
+   crs:UUID="2FAE58BB395C46C690757D537D2FADEC"
    crs:SupportsAmount="False"
    crs:SupportsColor="True"
    crs:SupportsMonochrome="True"
@@ -61,11 +61,12 @@
    crs:SharpenRadius="+1.0"
    crs:SharpenDetail="25"
    crs:SharpenEdgeMasking="0"
+   crs:Contrast2012="+75"
    crs:Clarity2012="0"
    crs:Dehaze="0"
    crs:ConvertToGrayscale="False"
    crs:ToneCurveName2012="Custom"
-   crs:CameraProfile="Adobe Standard"
+   crs:CameraProfile="Adobe Color"
    crs:HasSettings="True">
    <crs:Name>
     <rdf:Alt>

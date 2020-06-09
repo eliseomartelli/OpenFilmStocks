@@ -4,7 +4,7 @@
     xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
    crs:PresetType="Normal"
    crs:Cluster=""
-   crs:UUID="10179B7A9A8F478B9C48D76E07F7200E"
+   crs:UUID="E945FB680CD543F9ABCD40F08A135957"
    crs:SupportsAmount="False"
    crs:SupportsColor="True"
    crs:SupportsMonochrome="True"
@@ -15,7 +15,7 @@
    crs:CameraModelRestriction=""
    crs:Copyright=""
    crs:ContactInfo=""
-   crs:Version="11.0"
+   crs:Version="11.2.1"
    crs:ProcessVersion="11.0"
    crs:Sharpness="25"
    crs:ShadowTint="0"
@@ -48,6 +48,7 @@
    crs:Dehaze="0"
    crs:ConvertToGrayscale="True"
    crs:ToneCurveName2012="Custom"
+   crs:CameraProfile="Adobe Color"
    crs:HasSettings="True">
    <crs:Name>
     <rdf:Alt>
@@ -77,10 +78,9 @@
    <crs:ToneCurvePV2012>
     <rdf:Seq>
      <rdf:li>0, 0</rdf:li>
-     <rdf:li>45, 34</rdf:li>
-     <rdf:li>75, 90</rdf:li>
-     <rdf:li>126, 142</rdf:li>
-     <rdf:li>214, 216</rdf:li>
+     <rdf:li>52, 50</rdf:li>
+     <rdf:li>124, 146</rdf:li>
+     <rdf:li>214, 218</rdf:li>
      <rdf:li>255, 255</rdf:li>
     </rdf:Seq>
    </crs:ToneCurvePV2012>
@@ -102,7 +102,8 @@
      <rdf:li>255, 255</rdf:li>
     </rdf:Seq>
    </crs:ToneCurvePV2012Blue>
-
+   <crs:Look
+    crs:Name=""/>
   </rdf:Description>
  </rdf:RDF>
 </x:xmpmeta>
